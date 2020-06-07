@@ -1,0 +1,1 @@
+# WordPress-application-hosted-in-AWS-with-load-balancer-and-auto-scaling
